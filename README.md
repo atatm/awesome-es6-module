@@ -13,7 +13,7 @@
 
 ## Getting Started
 
-**You can run the application locally by cloning this [repository](https://github.com/atatm/awesome-books-es6.git)**
+**You can run the application locally by cloning this [repository](https://github.com/atatm/awesome-books-es6-module.git)**
 
 ### Local Setup
 
@@ -22,7 +22,7 @@ To run this project locally, make sure you have done the following:
 - Created hint.rc file
 - Created stylelint.rc file
 - Created .gihub/workflows/linters/yml
-- Get a copy of the project by running `https://github.com/atatm/awesome-books-es6.git `
+- Get a copy of the project by running `https://github.com/atatm/awesome-books-es6-module.git `
 - cd into the project
 - Open the project using code editor of your choice
 - Open your prefered browser
@@ -39,7 +39,7 @@ Contributions, issues, and feature requests are welcome!
 
 ### Go Live
 
-https://atatm.github.io/awesome-books-es6.git/
+ https://atatm.github.io/awesome-es6-module/
 
 ## Show your support
 
